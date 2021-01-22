@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![](giphy.gif =100px)
+![](giphy.gif)
+<img src="giphy.gif" alt="gif" width="100%"/>
 
 <!--
 **bigfanjs/bigfanjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
