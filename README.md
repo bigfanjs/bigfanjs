@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <img src="road.gif" alt="gif" width="100%"/>
 
 <!--
